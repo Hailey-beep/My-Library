@@ -1,3 +1,2 @@
-# My-Library
-
-Its the function for isTouching, bounceOff and bounce.
+# p5.play-boilerplate
+Boiler plate for p5.play
